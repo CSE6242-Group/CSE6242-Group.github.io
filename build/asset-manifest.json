@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/soccer-data-project/front_end/soccer_visualization/static/css/main.e6c13ad2.css",
-    "main.js": "/soccer-data-project/front_end/soccer_visualization/static/js/main.85779d13.js",
-    "static/js/787.74c8f445.chunk.js": "/soccer-data-project/front_end/soccer_visualization/static/js/787.74c8f445.chunk.js",
-    "index.html": "/soccer-data-project/front_end/soccer_visualization/index.html",
-    "static/media/lr_PA_weights.csv": "/soccer-data-project/front_end/soccer_visualization/static/media/lr_PA_weights.b9f4631dd686a4d643d9.csv",
-    "static/media/lr_PF_weights.csv": "/soccer-data-project/front_end/soccer_visualization/static/media/lr_PF_weights.a75288972c6bd6e399ee.csv",
-    "static/media/lr_PF_intercept.csv": "/soccer-data-project/front_end/soccer_visualization/static/media/lr_PF_intercept.3b7e82afc564e25c1672.csv",
-    "static/media/lr_PA_intercept.csv": "/soccer-data-project/front_end/soccer_visualization/static/media/lr_PA_intercept.65262188ad9ad539e935.csv",
-    "main.e6c13ad2.css.map": "/soccer-data-project/front_end/soccer_visualization/static/css/main.e6c13ad2.css.map",
-    "main.85779d13.js.map": "/soccer-data-project/front_end/soccer_visualization/static/js/main.85779d13.js.map",
-    "787.74c8f445.chunk.js.map": "/soccer-data-project/front_end/soccer_visualization/static/js/787.74c8f445.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.b3257735.js",
+    "static/js/787.6a17d963.chunk.js": "/static/js/787.6a17d963.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.b3257735.js.map": "/static/js/main.b3257735.js.map",
+    "787.6a17d963.chunk.js.map": "/static/js/787.6a17d963.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.85779d13.js"
+    "static/js/main.b3257735.js"
   ]
 }
